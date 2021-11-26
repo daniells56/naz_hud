@@ -1,0 +1,24 @@
+<meta>
+
+	<script src="config.lua" type="shared" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+
+
+	<file src="web-side/hud.css" />
+	<file src="web-side/hud.js" />
+	<file src="web-side/jquery.js" />
+	<file src="web-side/index.html" />
+
+	<file src="web-side/font/DS-DIGI.TTF" />
+	<file src="web-side/images/belt.svg" />
+	<file src="web-side/images/belt_active.svg" />
+	<file src="web-side/images/complexo.png" />
+	<file src="web-side/images/fuel.svg" />
+	<file src="web-side/images/heart.svg" />
+	<file src="web-side/images/locale.svg" />
+	<file src="web-side/images/oxigen.svg" />
+	<file src="web-side/images/radio.svg" />
+	<file src="web-side/images/radio_active.svg" />
+	<file src="web-side/images/shield.svg" />
+
+</meta>
