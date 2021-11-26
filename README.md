@@ -8,5 +8,7 @@ Demonstração:
 
 OBS: video ficou um pouco lagado por conta do OBS, mas whatever
 
+qualquer erro me chame no discord: daniells_#9581 xD
+
 https://user-images.githubusercontent.com/90437030/143512419-d13e9d92-00d2-4ea2-af0a-d2ee4d4a3f56.mp4
 
